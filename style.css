@@ -7,6 +7,7 @@ body{
   background: #F2F2F2;
   color: black;
   padding: 3%;
+  margin-bottom: 5%;
 }
 
 #picture{
@@ -19,4 +20,10 @@ body{
 
 .fa{
   color:black;
+}
+
+.box{
+  background: #F2F2F2;
+  color: black;
+  border-radius: 3%;
 }
