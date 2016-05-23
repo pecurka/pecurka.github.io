@@ -1,0 +1,22 @@
+body{
+  background: linear-gradient(to left,  #232526 , #000000);
+  color:#f2f2f2;
+}
+
+#intro{
+  background: #F2F2F2;
+  color: black;
+  padding: 3%;
+}
+
+#picture{
+  border-radius: 20%;
+}
+
+.img-responsive{
+  margin: 0 auto;
+}
+
+.fa{
+  color:black;
+}
